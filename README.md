@@ -1,5 +1,5 @@
-# MultiNBS
-Implementation of MultiNBS - a multi-omic network-based stratification method for cancer tumours. This is a Python 3.10 package based off the integrative network-based stratification algorithm described in [citation here](doi here).
+# Multi-NBS
+Implementation of Multi-NBS - a multi-omic network-based stratification method for cancer tumours. This is a Python 3.10 package based off the integrative network-based stratification algorithm described in [citation here](doi here).
 
 # Installing Multi-NBS Dependencies
 These dependencies are needed to run MultiNBS (Python 3.10): 
