@@ -27,7 +27,7 @@ To install MultiNBS package from this repository, please follow these steps:
 
 Install Python 3.10 and the required dependencies above.
 Clone the repository to your local drive.
-Navigate into the root folder of the pyNBS directory on your local drive
+Navigate into the root folder of the MultiNBS directory on your local drive
 Execute following command: python setup.py install
 
 # Running Multi-NBS
