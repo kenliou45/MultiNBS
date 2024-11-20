@@ -4,23 +4,15 @@ Implementation of MultiNBS - a multi-omic network-based stratification method fo
 # Installing Multi-NBS Dependencies
 These dependencies are needed to run MultiNBS (Python 3.10): 
 
-Lifelines 0.9.1+
-
-NetworkX v2.0+
-
-Numpy 1.11.0+
-
-Matplotlib 1.5.1+
-
-MKL 1.1.2+*
-
-Pandas 0.19.0+
-
-Scipy 0.17.0+
-
-Scikit-learn 0.17.1+
-
-Seaborn 0.7.1+
+Lifelines 0.27.7+
+NetworkX 2.8.4+
+Numpy 1.24.3+
+Matplotlib 3.7.1+
+MKL 2023.0.0+ (usually included with Numpy via conda)
+Pandas 2.1.0+
+Scipy 1.11.1+
+Scikit-learn 1.3.1+
+Seaborn 0.12.2+
 
 # Installing Multi-NBS
 To install MultiNBS package from this repository, please follow these steps:
