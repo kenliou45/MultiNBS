@@ -1,5 +1,8 @@
 # Multi-NBS
-Implementation of Multi-NBS - a multi-omic network-based stratification method for cancer tumours. This is a Python 3.10 package based off the integrative network-based stratification algorithm described in Liou K, Wang JP. Integrating genetic and gene expression data in network-based stratification analysis of cancers. BMC Bioinformatics. 2025;26(1):126. doi:10.1186/s12859-025-06143-y.
+Implementation of Multi-NBS - a multi-omic network-based stratification method for cancer tumours. This is a Python 3.10 package of an integrative network-based stratification algorithm. 
+
+# Please cite: 
+Liou K, Wang JP. Integrating genetic and gene expression data in network-based stratification analysis of cancers. BMC Bioinformatics. 2025;26(1):126. doi:10.1186/s12859-025-06143-y.
 
 # Installing Multi-NBS Dependencies
 These dependencies are needed to run MultiNBS (Python 3.10): 
